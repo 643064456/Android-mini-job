@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/FinalTest/app/src/main/res/drawable/ic_launcher_background.xml" value="0.28671875" />
+        <entry key="..\:/AndroidStudioProjects/FinalTest/app/src/main/res/layout-sw600dp/activity_news.xml" value="0.2294407894736842" />
+        <entry key="..\:/AndroidStudioProjects/FinalTest/app/src/main/res/layout-sw600dp/activity_poetry.xml" value="0.153515625" />
+        <entry key="..\:/AndroidStudioProjects/FinalTest/app/src/main/res/layout-sw600dp/poetry_show.xml" value="0.23684210526315788" />
+        <entry key="..\:/AndroidStudioProjects/FinalTest/app/src/main/res/layout/activity_access_bilibili.xml" value="0.23327850877192982" />
+        <entry key="..\:/AndroidStudioProjects/FinalTest/app/src/main/res/layout/activity_access_lolblockly.xml" value="0.2294407894736842" />
+        <entry key="..\:/AndroidStudioProjects/FinalTest/app/src/main/res/layout/activity_login.xml" value="0.23848684210526316" />
+        <entry key="..\:/AndroidStudioProjects/FinalTest/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/FinalTest/app/src/main/res/layout/activity_news.xml" value="0.2294407894736842" />
+        <entry key="..\:/AndroidStudioProjects/FinalTest/app/src/main/res/layout/activity_poetry.xml" value="0.153515625" />
+        <entry key="..\:/AndroidStudioProjects/FinalTest/app/src/main/res/layout/activity_register.xml" value="0.23848684210526316" />
+        <entry key="..\:/AndroidStudioProjects/FinalTest/app/src/main/res/layout/activity_show.xml" value="0.15871710526315788" />
+        <entry key="..\:/AndroidStudioProjects/FinalTest/app/src/main/res/layout/news_content.xml" value="0.23684210526315788" />
+        <entry key="..\:/AndroidStudioProjects/FinalTest/app/src/main/res/layout/news_content_fragment.xml" value="0.23684210526315788" />
+        <entry key="..\:/AndroidStudioProjects/FinalTest/app/src/main/res/layout/news_item.xml" value="0.23684210526315788" />
+        <entry key="..\:/AndroidStudioProjects/FinalTest/app/src/main/res/layout/news_title_fragment.xml" value="0.23684210526315788" />
+        <entry key="..\:/AndroidStudioProjects/FinalTest/app/src/main/res/layout/poetry_content.xml" value="0.23684210526315788" />
+        <entry key="..\:/AndroidStudioProjects/FinalTest/app/src/main/res/layout/poetry_content_frag.xml" value="0.153515625" />
+        <entry key="..\:/AndroidStudioProjects/FinalTest/app/src/main/res/layout/poetry_content_fragment.xml" value="0.23684210526315788" />
+        <entry key="..\:/AndroidStudioProjects/FinalTest/app/src/main/res/layout/poetry_item.xml" value="0.23684210526315788" />
+        <entry key="..\:/AndroidStudioProjects/FinalTest/app/src/main/res/layout/poetry_show.xml" value="0.23684210526315788" />
+        <entry key="..\:/AndroidStudioProjects/FinalTest/app/src/main/res/layout/poetry_title_fragment.xml" value="0.23684210526315788" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.23848684210526316" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

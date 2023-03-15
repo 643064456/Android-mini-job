@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    tools:context=".ShowActivity">
+
+
+    <ImageView
+        android:id="@+id/poetry"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginBottom="10dp"
+        android:visibility="visible"
+        android:background="@drawable/img1"
+        app:layout_constraintBottom_toTopOf="@+id/bili"
+        app:layout_constraintEnd_toEndOf="@+id/bili"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/bili" />
+    
+    <ImageView
+        android:id="@+id/game"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:visibility="visible"
+        android:background="@drawable/img2"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.385"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.407" />
+
+    <ImageView
+        android:id="@+id/bili"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginEnd="20dp"
+        android:visibility="visible"
+        android:background="@drawable/img3"
+        app:layout_constraintBottom_toBottomOf="@+id/logout"
+        app:layout_constraintEnd_toStartOf="@+id/logout"
+        app:layout_constraintTop_toTopOf="@+id/logout"
+        app:layout_constraintVertical_bias="0.0" />
+
+    
+
+    <ImageView
+        android:id="@+id/logout"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="10dp"
+        android:visibility="visible"
+        android:background="@drawable/img4"
+        app:layout_constraintEnd_toEndOf="@+id/game"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/game"
+        app:layout_constraintTop_toBottomOf="@+id/game" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
